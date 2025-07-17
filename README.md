@@ -38,7 +38,7 @@ Before running the application, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/enhanced-qa-chatbot.git
+git clone https://github.com/mujahidAI/enhanced-qa-chatbot.git
 cd enhanced-qa-chatbot
 ```
 
